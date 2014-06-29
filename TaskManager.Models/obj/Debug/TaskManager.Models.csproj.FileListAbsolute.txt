@@ -1,0 +1,5 @@
+c:\users\marti_000\documents\visual studio 2013\Projects\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.dll
+c:\users\marti_000\documents\visual studio 2013\Projects\TaskManager\TaskManager.Models\bin\Debug\TaskManager.Models.pdb
+c:\users\marti_000\documents\visual studio 2013\Projects\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.csprojResolveAssemblyReference.cache
+c:\users\marti_000\documents\visual studio 2013\Projects\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.dll
+c:\users\marti_000\documents\visual studio 2013\Projects\TaskManager\TaskManager.Models\obj\Debug\TaskManager.Models.pdb
